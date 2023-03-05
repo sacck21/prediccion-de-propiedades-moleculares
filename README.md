@@ -44,6 +44,7 @@ Enlace de la competencia de Kaggle: Predicting Molecular Properties | Kaggle
 
 El desempeño del modelo será medido con base en el logaritmo del promedio del error absoluto, calculado para cada tipo de acoplamiento escalar y luego promediado entre tipos, de modo que una disminución del 1 % en MAE para un tipo proporciona la misma mejora en la puntuación que una disminución del 1 % para otro tipo.
 
+![Image](https://user-images.githubusercontent.com/126600000/222940644-4f42162e-9370-4ac3-88c7-32106b5ba463.png)
 
 T es el número de tipos de acoplamiento escalar
 nt es el número de observaciones de tipo
