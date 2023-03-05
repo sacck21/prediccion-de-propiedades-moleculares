@@ -46,10 +46,10 @@ El desempeño del modelo será medido con base en el logaritmo del promedio del 
 
 ![Image](https://user-images.githubusercontent.com/126600000/222940644-4f42162e-9370-4ac3-88c7-32106b5ba463.png)
 
-T es el número de tipos de acoplamiento escalar
-nt es el número de observaciones de tipo
-yi es la constante de acoplamiento escalar real para la observación
-ŷi es la constante de acoplamiento escalar predicha para la observación
+*T es el número de tipos de acoplamiento escalar
+*nt es el número de observaciones de tipo
+*yi es la constante de acoplamiento escalar real para la observación
+*ŷi es la constante de acoplamiento escalar predicha para la observación
 
 
 
