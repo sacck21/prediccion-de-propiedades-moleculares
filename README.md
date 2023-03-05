@@ -37,7 +37,7 @@ Actualmente, la identificación de dichas constantes es un proceso sumamente cos
 
 En Kaggle se encontró la competencia “Predicting Molecular Properties”, la cual presenta un dataset en el cual se cuenta con 131 mil archivos y 47 columnas. Dicho dataset en estas tablas contiene información como nombre de la molécula, los índices de acoplamiento que se buscan predecir, número de átomos, entre otros.
 
-Enlace de la competencia de Kaggle: Predicting Molecular Properties | Kaggle
+Enlace de la competencia de Kaggle: https://www.kaggle.com/c/champs-scalar-coupling
 
  
 ## 3) Métricas de desempeño requeridas (de machine learning y de negocio).
