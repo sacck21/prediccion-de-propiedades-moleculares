@@ -4,13 +4,19 @@
 
 Linda Vanessa Ramos Pabon 
 
+Bioingenieria
+
 Cc. 1085341028
 
 Santiago Salazar Correa
 
+Bioingenieria
+
 Cc. 1000570053
 
 Julian Andres Rosero Rosero
+
+Bioingenieria
 
 Cc. 1004214604
 
