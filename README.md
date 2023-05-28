@@ -1,14 +1,14 @@
 ## Predicción de propiedades moleculares
 
 
-##Estudiantes
+## Estudiantes
 Linda Vanessa Ramos Pabon, Bioingenieria, Cc. 1085341028
 
 Santiago Salazar Correa, Bioingenieria, Cc. 1000570053
 
 Julian Andres Rosero Rosero, Bioingenieria, Cc. 1004214604
 
-##Datos:
+## Datos:
 Para cargar los datos a colab es necesario obtener un archivo kaggle.json, el cuál se descarga siguiendo los siguientes pasos:
 
 *   Loguearse a la cuenta de Kaggle o crear una cuenta en caso de que no se tenga.
@@ -22,7 +22,7 @@ Al oprimir este botón, el archivo kaggle.json se descargará. Proceda a ejecuta
 
 “Predicting Molecular Properties”: Enlace de la competencia de Kaggle:[ Predicting Molecular Properties | Kaggle](https://www.kaggle.com/competitions/champs-scalar-coupling/overview)
 
-##Videos:
+## Videos:
 *  Entrega 2: https://www.youtube.com/watch?v=HmyMCcTA0t4&ab_channel=Juli%C3%A1nAndr%C3%A9sRoseroRosero
 *  Entrega Final: 
 
