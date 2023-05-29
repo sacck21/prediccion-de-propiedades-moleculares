@@ -2,11 +2,11 @@
 
 
 ## Estudiantes
-Linda Vanessa Ramos Pabon, Bioingenieria, Cc. 1085341028
+Linda Vanessa Ramos Pabon, Bioingenieria, CC. 1085341028
 
-Santiago Salazar Correa, Bioingenieria, Cc. 1000570053
+Santiago Salazar Correa, Bioingenieria, CC. 1000570053
 
-Julian Andres Rosero Rosero, Bioingenieria, Cc. 1004214604
+Julian Andres Rosero Rosero, Bioingenieria, CC. 1004214604
 
 ## Datos:
 Para cargar los datos a colab es necesario obtener un archivo kaggle.json, el cuál se descarga siguiendo los siguientes pasos:
