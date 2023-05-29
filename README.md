@@ -24,7 +24,7 @@ Al oprimir este botón, el archivo kaggle.json se descargará. Proceda a ejecuta
 
 ## Videos:
 *  Entrega 2: https://www.youtube.com/watch?v=HmyMCcTA0t4&ab_channel=Juli%C3%A1nAndr%C3%A9sRoseroRosero
-*  Entrega Final: 
+*  Entrega Final: https://www.youtube.com/watch?v=jI0SJ0W7iGQ&ab_channel=Juli%C3%A1nAndr%C3%A9sRoseroRosero
 
 
 
